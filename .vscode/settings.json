@@ -56,5 +56,5 @@
         "temp/": true,
         "Temp/": true
     },
-    "dotnet.defaultSolution": "CogniverseUnity6.sln"
+    "dotnet.defaultSolution": "CogniverseU6.sln"
 }
